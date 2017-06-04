@@ -18,7 +18,7 @@ import com.youngport.app.projectvlayout.VLayout.StickyLayoutHelperActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    /*测试分支 */
+    /*测试*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
