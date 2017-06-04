@@ -17,7 +17,6 @@ import com.youngport.app.projectvlayout.VLayout.StaggeredGridLayoutHelperActivit
 import com.youngport.app.projectvlayout.VLayout.StickyLayoutHelperActivity;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
