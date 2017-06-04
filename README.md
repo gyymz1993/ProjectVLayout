@@ -343,4 +343,4 @@ public class AllActivity extends Activity{
 
 ![img11.gif](http://upload-images.jianshu.io/upload_images/925576-56a30a38b9907e92.gif?imageMogr2/auto-orient/strip)
 
-最后源码demo,代码都在这[https://github.com/jack921/ProjectVLayout](https://github.com/jack921/ProjectVLayout)
+最后源码demo,代码都在这[https://github.com/gyymz1993/ProjectVLayout](https://github.com/gyymz1993/ProjectVLayout)
